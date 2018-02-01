@@ -1,0 +1,2 @@
+# SCNU
+all coding practise
